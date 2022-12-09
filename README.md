@@ -1,12 +1,15 @@
-# 我的練習
+# 練習go
 
-## 來自教學：[build-3-simple-golang-projects](https://www.udemy.com/course/build-3-simple-golang-projects/)
+## simple-project
 ### google-trends
 * http get google-trends RSS
 * 解析xml
+* from：[build-3-simple-golang-projects](https://www.udemy.com/course/build-3-simple-golang-projects/)
 ### google-translate
 * http get: Client + NewRequest + query
 * google-translate API for free
 * goroutine + channel + waitgroup
+* from：[build-3-simple-golang-projects](https://www.udemy.com/course/build-3-simple-golang-projects/)
 ### nutriscore
 * defined type
+* from：[build-3-simple-golang-projects](https://www.udemy.com/course/build-3-simple-golang-projects/)
