@@ -1,4 +1,4 @@
-# 練習go
+# README
 
 ## simple-project
 ### [google-trends](google-trends)
