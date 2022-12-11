@@ -26,3 +26,10 @@ protoc.exe --plugin=protoc-gen-go.exe --go_out=go simple.proto
 * 參考
   * [golang在windows下安装和使用protobuf](https://studygolang.com/articles/8804)
   * [protoc-gen-go: unable to determine Go import path for "simple.proto"](https://stackoverflow.com/questions/70586511/protoc-gen-go-unable-to-determine-go-import-path-for-simple-proto)
+
+## ***NOTICE***
+原本以為**google.golang.org/protobuf**無法使用，但其實可以，只是指令與原本不同。尚未查看兩者差異
+```
+github.com/golang/protobuf
+google.golang.org/protobuf
+```
